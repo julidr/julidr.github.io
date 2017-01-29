@@ -1,0 +1,69 @@
+a#logoMenu img{
+	height: 60px;
+}
+
+ul#dropdown1 li a{
+	color: #0288d1;
+}
+
+.navBar-scrolled{
+	position: fixed;
+	top:0;
+	z-index: 150;
+}
+
+#imgBanner{
+	background-image: url("../img/imgBannerOne.png");
+	width: 490px;
+	height: 200px;
+	margin-top: 70px;
+}
+
+#imgBannerTwo{
+	background-image: url("../img/imgBannerTwo.png");
+	width: 490px;
+	height: 200px;
+	margin-top: 70px;
+}
+
+#imgBannerThree{
+	background-image: url("../img/imgBannerThree.png");
+	width: 490px;
+	height: 200px;
+	margin-top: 70px;
+}
+
+#imgBannerFour{
+	background-image: url("../img/imgBannerFour.png");
+	width: 490px;
+	height: 200px;
+	margin-top: 70px;
+}
+
+#forward{
+	width: 140px;
+	height: 140px;
+	float: right;
+	position: relative;
+	z-index: 90;
+}
+
+#back{
+	width: 140px;
+	height: 140px;
+	float: left;
+	position: relative;
+	z-index: 90;
+	padding-left: 30px;
+}
+
+img#arrowBack, img#arrowForward{
+	width: 100px;
+}
+
+#imgBanner:hover{
+	background-image: url("../img/imgBannerOne Hover.png");
+	width: 490px;
+	height: 200px;
+	margin-top: 70px;
+}
