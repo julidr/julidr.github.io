@@ -11,3 +11,85 @@ main {
 .logo {
     width: 215px;
 }
+
+.social-media {
+    padding-left: 40%;
+    padding-top: 50%;
+}
+
+.facebook-color {
+    background-color: #4267b2;
+}
+
+.facebook-color:hover {
+    background-color: #3e5aa2;
+}
+
+.github-color {
+    background-color: #24292e;
+}
+
+.github-color:hover {
+    background-color: #161c21;
+}
+
+.linkedin-color {
+    background-color: #0077b5;
+}
+
+.linkedin-color:hover {
+    background-color: #0065a2;
+}
+
+.about-me {
+    background-image: url("../img/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-me-card {
+    border-radius: 25px;
+    margin-top: 10%;
+}
+
+.description {
+    margin-left: 5%;
+}
+
+.description-title {
+    background-color: #dcdcdc;
+    font-weight: bold;
+    height: 40px;
+    padding-top: 9px;
+}
+
+.description-content {
+    background-color: white;
+    height: 40px;
+    padding-top: 9px;
+}
+
+.description-title-l {
+    background-color: #dcdcdc;
+    font-weight: bold;
+    height: 130px;
+    padding-top: 9px;
+}
+
+.description-content-l {
+    background-color: white;
+    height: 130px;
+    padding-top: 9px;
+}
+
+.description-text {
+    padding-top: 9px;
+}
+
+.description-border-bottom {
+    border-bottom: 1px solid black;
+}
+
+.icon {
+    width: 30px;
+}
